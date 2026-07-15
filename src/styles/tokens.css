@@ -1,0 +1,25 @@
+:root {
+  --font-display: 'Archivo Variable', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-voice: 'Newsreader Variable', 'Songti SC', SimSun, serif;
+  --font-body: 'Archivo Variable', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --canvas: #f2f1eb;
+  --canvas-dark: #20201e;
+  --ink: #20201e;
+  --ink-reverse: #f5f3ec;
+  --ink-muted: #686761;
+  --line: #b9b8b1;
+  --cobalt: #244bea;
+  --coral: #ff5f4c;
+  --media-border-light: rgba(32, 32, 30, .18);
+  --media-border-dark: rgba(245, 243, 236, .72);
+  --media-shadow: 0 .75rem 2.2rem rgba(0, 0, 0, .15);
+  --paper-shadow: 0 1rem 3rem rgba(32, 32, 30, .11);
+  --page-x: clamp(1rem, 4vw, 4rem);
+  --section-y: clamp(5.5rem, 9vw, 9rem);
+  --header-h: 4.5rem;
+  --ease-ui: cubic-bezier(.2, .7, .2, 1);
+  --ease-editorial: cubic-bezier(.16, 1, .3, 1);
+  --duration-fast: 160ms;
+  --duration-ui: 280ms;
+  --duration-focus: 520ms;
+}

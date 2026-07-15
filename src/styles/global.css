@@ -1,0 +1,25 @@
+html, body, #root { min-height: 100%; }
+body { font-family: var(--font-body); background: var(--canvas); color: var(--ink); font-size: 14px; line-height: 1.35; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+body, button, a { cursor: default; }
+a[href], button:not(:disabled) { cursor: pointer; }
+::selection { background: var(--cobalt); color: white; }
+button:focus-visible, a:focus-visible { outline: 2px solid currentColor; outline-offset: 5px; }
+main:focus { outline: none; }
+.skip-link { position: fixed; z-index: 200; top: .6rem; left: .6rem; transform: translateY(-160%); background: var(--ink); color: white; padding: .7rem 1rem; transition: transform var(--duration-fast) var(--ease-ui); }
+.skip-link:focus { transform: translateY(0); }
+.site-header { position: fixed; z-index: 100; inset: 0 0 auto; height: var(--header-h); display: flex; align-items: center; justify-content: space-between; padding: 0 var(--page-x); font-size: .72rem; text-transform: uppercase; letter-spacing: .025em; color: inherit; }
+.site-header--light { color: var(--ink-reverse); }
+.site-header--dark { color: var(--ink); }
+.site-brand { font-weight: 650; }
+.site-header nav { display: flex; gap: clamp(1rem, 2vw, 2rem); }
+.site-header nav a { position: relative; min-height: 44px; display: grid; place-items: center; }
+.site-header nav a::after { content: ''; position: absolute; right: 0; bottom: .45rem; left: 0; height: 1px; background: currentColor; transform: scaleX(0); transform-origin: right; transition: transform var(--duration-ui) var(--ease-ui); }
+.site-header nav a:hover::after, .site-header nav a:focus-visible::after, .site-header nav a.active::after { transform: scaleX(1); transform-origin: left; }
+.eyebrow { font-size: .65rem; text-transform: uppercase; letter-spacing: .035em; }
+.voice { font-family: var(--font-voice); font-style: italic; }
+.text-link { display: inline-flex; align-items: center; justify-content: space-between; gap: 2rem; min-height: 44px; border-bottom: 1px solid currentColor; font-size: .7rem; text-transform: uppercase; }
+.not-found { min-height: 100svh; padding: 18vh var(--page-x) 4rem; display: grid; align-content: start; gap: 1rem; }
+.not-found h1 { font: 620 clamp(3rem, 9vw, 9rem)/.86 var(--font-display); letter-spacing: -.07em; max-width: 10ch; }
+.not-found > a { margin-top: 1rem; width: max-content; border-bottom: 1px solid; padding: .6rem 0; }
+@media (max-width: 640px) { :root { --header-h: 3.8rem; } .site-header { font-size: .65rem; } }
+@media print { .site-header, .skip-link { display: none; } }

@@ -1,0 +1,45 @@
+.projects-page { min-height: 100svh; background: var(--canvas-dark); color: var(--ink-reverse); overflow: clip; }
+.projects-intro { min-height: 100svh; padding: clamp(7rem, 11vh, 9rem) var(--page-x) 3rem; display: grid; grid-template-columns: 4fr 8fr; gap: clamp(2rem, 4vw, 5rem); }
+.projects-intro > div:first-child { align-self: center; position: relative; z-index: 5; }
+.projects-intro h1 { font: 640 clamp(4rem, 6.5vw, 7rem)/.88 var(--font-display); letter-spacing: -.055em; margin: 1.4rem 0 2rem; }
+.projects-intro .voice { max-width: 22rem; font-size: 1.08rem; line-height: 1.4; }
+.project-field { position: relative; align-self: center; height: min(70vh, 44rem); }
+.project-card { position: absolute; left: var(--card-x); top: var(--card-y); width: var(--card-width); height: var(--card-height); z-index: 1; transform: rotate(var(--card-rotation)); transform-origin: center; will-change: transform; }
+.project-card > a { display: grid; grid-template-rows: 1fr auto; width: 100%; height: 100%; background: var(--canvas); color: var(--ink); border: 1px solid var(--media-border-dark); box-shadow: 0 0 0 1px rgba(0,0,0,.08), var(--media-shadow); }
+.project-card__image { position: relative; min-height: 0; overflow: hidden; background: #f7f5ef; border-bottom: 1px solid rgba(32,32,30,.15); }
+.project-card__image::after { content: ''; position: absolute; inset: 0; pointer-events: none; box-shadow: inset 0 0 0 1px rgba(32,32,30,.08); }
+.project-card__image img { width: 100%; height: 100%; object-fit: cover; transition: filter var(--duration-focus) var(--ease-editorial); }
+.project-card__image[data-media-frame='presentation'] { padding: clamp(.3rem, .5vw, .6rem); background: #e8e5de; }
+.project-card__image[data-media-frame='presentation'] img, .project-card__image[data-media-frame='poster'] img { object-fit: contain; background: #fff; border: 1px solid var(--media-border-light); }
+.project-card__image[data-media-frame='poster'] { padding: clamp(.2rem, .35vw, .4rem); background: #e2dfd8; }
+.project-card__image[data-media-frame='photography'] img { border: 1px solid var(--media-border-light); }
+.project-card__caption { min-height: 7.4rem; padding: .9rem; display: grid; grid-template-columns: auto 1fr; align-content: start; gap: .3rem .8rem; }
+.project-card__caption > span { font-size: .56rem; }
+.project-card__caption h2 { font: 620 clamp(1rem, 1.7vw, 1.55rem)/1 var(--font-display); letter-spacing: -.04em; }
+.project-card__caption p { grid-column: 2; font-size: .58rem; text-transform: uppercase; }
+.project-card[data-state='focused'] { z-index: 5; transform: translateY(-3%) rotate(0deg) scale(1.08); }
+.project-card[data-state='retreated'].project-card--before { transform: translateX(-10%) rotate(calc(var(--card-rotation) - 2deg)) scale(.91); opacity: .42; }
+.project-card[data-state='retreated'].project-card--after { transform: translateX(10%) rotate(calc(var(--card-rotation) + 2deg)) scale(.91); opacity: .42; }
+.project-card[data-state='retreated'] img { filter: saturate(.45); }
+.project-card[data-state='selected'], .project-card[data-state='transitioning'] { z-index: 6; transform: rotate(0deg) scale(1.1); }
+.project-card:focus-within { z-index: 8; }
+@media (max-width: 1050px) {
+  .projects-intro { grid-template-columns: 3fr 7fr; }
+  .project-field { height: 61vh; }
+  .project-card__caption { min-height: 6.4rem; }
+}
+@media (max-width: 700px) {
+  .projects-intro { display: block; padding: 6.5rem 1rem 3rem; }
+  .projects-intro h1 { font-size: 4.4rem; }
+  .projects-intro .voice { font-size: 1rem; }
+  .project-field { height: auto; margin-top: 3rem; display: grid; gap: 1rem; }
+  .project-card { position: relative; inset: auto; width: 100%; height: auto; transform: none; opacity: 1; }
+  .project-card > a { display: grid; grid-template-columns: 1.25fr .75fr; min-height: 17rem; box-shadow: none; }
+  .project-card__caption { min-height: 0; align-content: end; }
+  .project-card[data-state] { transform: none; opacity: 1; }
+  .project-card[data-state] img { filter: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .project-card, .project-card[data-state] { transform: rotate(var(--card-rotation)); opacity: 1; }
+  .project-card[data-state] img { filter: none; }
+}
