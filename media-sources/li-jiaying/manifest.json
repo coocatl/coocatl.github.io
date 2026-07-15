@@ -1,0 +1,1127 @@
+{
+  "generatedAt": "2026-07-14T13:38:30.614Z",
+  "sources": [
+    {
+      "project": "tailo",
+      "source": "海报/IP形象-尾焰1.jpg",
+      "slug": "tailo-brand-board-01",
+      "original": {
+        "width": 1491,
+        "height": 1055,
+        "bytes": 227436
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/tailo/tailo-brand-board-01-thumbnail.webp",
+          "width": 760,
+          "height": 538,
+          "bytes": 57292
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/tailo/tailo-brand-board-01-detail.webp",
+          "width": 1491,
+          "height": 1055,
+          "bytes": 191568
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/tailo/tailo-brand-board-01-zoom.webp",
+          "width": 1491,
+          "height": 1055,
+          "bytes": 225494
+        }
+      ]
+    },
+    {
+      "project": "tailo",
+      "source": "海报/IP形象-尾焰2.jpg",
+      "slug": "tailo-brand-board-02",
+      "original": {
+        "width": 4961,
+        "height": 3508,
+        "bytes": 1918821
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/tailo/tailo-brand-board-02-thumbnail.webp",
+          "width": 760,
+          "height": 538,
+          "bytes": 38032
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/tailo/tailo-brand-board-02-detail.webp",
+          "width": 1800,
+          "height": 1273,
+          "bytes": 138616
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/tailo/tailo-brand-board-02-zoom.webp",
+          "width": 2600,
+          "height": 1839,
+          "bytes": 263044
+        }
+      ]
+    },
+    {
+      "project": "tailo",
+      "source": "海报/UI1.png",
+      "slug": "tailo-ui-research",
+      "original": {
+        "width": 1491,
+        "height": 1055,
+        "bytes": 1917139
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/tailo/tailo-ui-research-thumbnail.webp",
+          "width": 760,
+          "height": 538,
+          "bytes": 61084
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/tailo/tailo-ui-research-detail.webp",
+          "width": 1491,
+          "height": 1055,
+          "bytes": 196286
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/tailo/tailo-ui-research-zoom.webp",
+          "width": 1491,
+          "height": 1055,
+          "bytes": 225746
+        }
+      ]
+    },
+    {
+      "project": "tailo",
+      "source": "海报/UI2.png",
+      "slug": "tailo-ui-system",
+      "original": {
+        "width": 1491,
+        "height": 1055,
+        "bytes": 1844331
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/tailo/tailo-ui-system-thumbnail.webp",
+          "width": 760,
+          "height": 538,
+          "bytes": 52306
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/tailo/tailo-ui-system-detail.webp",
+          "width": 1491,
+          "height": 1055,
+          "bytes": 175058
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/tailo/tailo-ui-system-zoom.webp",
+          "width": 1491,
+          "height": 1055,
+          "bytes": 204158
+        }
+      ]
+    },
+    {
+      "project": "tailo",
+      "source": "海报/UI3.png",
+      "slug": "tailo-ui-screens",
+      "original": {
+        "width": 1491,
+        "height": 1055,
+        "bytes": 1586643
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/tailo/tailo-ui-screens-thumbnail.webp",
+          "width": 760,
+          "height": 538,
+          "bytes": 48690
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/tailo/tailo-ui-screens-detail.webp",
+          "width": 1491,
+          "height": 1055,
+          "bytes": 153396
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/tailo/tailo-ui-screens-zoom.webp",
+          "width": 1491,
+          "height": 1055,
+          "bytes": 175702
+        }
+      ]
+    },
+    {
+      "project": "kebike",
+      "source": "PPT/可比克1.png",
+      "slug": "kebike-strategy-01",
+      "original": {
+        "width": 1540,
+        "height": 914,
+        "bytes": 733349
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/kebike/kebike-strategy-01-thumbnail.webp",
+          "width": 760,
+          "height": 451,
+          "bytes": 57586
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/kebike/kebike-strategy-01-detail.webp",
+          "width": 1540,
+          "height": 914,
+          "bytes": 223878
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/kebike/kebike-strategy-01-zoom.webp",
+          "width": 1540,
+          "height": 914,
+          "bytes": 253864
+        }
+      ]
+    },
+    {
+      "project": "kebike",
+      "source": "PPT/可比克2.png",
+      "slug": "kebike-strategy-02",
+      "original": {
+        "width": 1539,
+        "height": 911,
+        "bytes": 446552
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/kebike/kebike-strategy-02-thumbnail.webp",
+          "width": 760,
+          "height": 450,
+          "bytes": 51306
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/kebike/kebike-strategy-02-detail.webp",
+          "width": 1539,
+          "height": 911,
+          "bytes": 190890
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/kebike/kebike-strategy-02-zoom.webp",
+          "width": 1539,
+          "height": 911,
+          "bytes": 218466
+        }
+      ]
+    },
+    {
+      "project": "bamboo-dream",
+      "source": "PPT/竹梦百千万1.png",
+      "slug": "bamboo-dream-01",
+      "original": {
+        "width": 1361,
+        "height": 877,
+        "bytes": 1281069
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/bamboo-dream/bamboo-dream-01-thumbnail.webp",
+          "width": 760,
+          "height": 490,
+          "bytes": 42750
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/bamboo-dream/bamboo-dream-01-detail.webp",
+          "width": 1361,
+          "height": 877,
+          "bytes": 141630
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/bamboo-dream/bamboo-dream-01-zoom.webp",
+          "width": 1361,
+          "height": 877,
+          "bytes": 170668
+        }
+      ]
+    },
+    {
+      "project": "bamboo-dream",
+      "source": "PPT/竹梦百千万2.png",
+      "slug": "bamboo-dream-02",
+      "original": {
+        "width": 1362,
+        "height": 882,
+        "bytes": 1271440
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/bamboo-dream/bamboo-dream-02-thumbnail.webp",
+          "width": 760,
+          "height": 492,
+          "bytes": 43564
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/bamboo-dream/bamboo-dream-02-detail.webp",
+          "width": 1362,
+          "height": 882,
+          "bytes": 146372
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/bamboo-dream/bamboo-dream-02-zoom.webp",
+          "width": 1362,
+          "height": 882,
+          "bytes": 174994
+        }
+      ]
+    },
+    {
+      "project": "bamboo-dream",
+      "source": "PPT/竹梦百千万3.png",
+      "slug": "bamboo-dream-03",
+      "original": {
+        "width": 1361,
+        "height": 884,
+        "bytes": 1305278
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/bamboo-dream/bamboo-dream-03-thumbnail.webp",
+          "width": 760,
+          "height": 494,
+          "bytes": 49958
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/bamboo-dream/bamboo-dream-03-detail.webp",
+          "width": 1361,
+          "height": 884,
+          "bytes": 169088
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/bamboo-dream/bamboo-dream-03-zoom.webp",
+          "width": 1361,
+          "height": 884,
+          "bytes": 201484
+        }
+      ]
+    },
+    {
+      "project": "haoshi",
+      "source": "PPT/豪士ppt1.png",
+      "slug": "haoshi-strategy-01",
+      "original": {
+        "width": 982,
+        "height": 844,
+        "bytes": 593384
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/haoshi/haoshi-strategy-01-thumbnail.webp",
+          "width": 760,
+          "height": 653,
+          "bytes": 64058
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/haoshi/haoshi-strategy-01-detail.webp",
+          "width": 982,
+          "height": 844,
+          "bytes": 118726
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/haoshi/haoshi-strategy-01-zoom.webp",
+          "width": 982,
+          "height": 844,
+          "bytes": 135972
+        }
+      ]
+    },
+    {
+      "project": "haoshi",
+      "source": "PPT/豪士PPT2.png",
+      "slug": "haoshi-strategy-02",
+      "original": {
+        "width": 982,
+        "height": 849,
+        "bytes": 709572
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/haoshi/haoshi-strategy-02-thumbnail.webp",
+          "width": 760,
+          "height": 657,
+          "bytes": 64870
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/haoshi/haoshi-strategy-02-detail.webp",
+          "width": 982,
+          "height": 849,
+          "bytes": 120990
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/haoshi/haoshi-strategy-02-zoom.webp",
+          "width": 982,
+          "height": 849,
+          "bytes": 139290
+        }
+      ]
+    },
+    {
+      "project": "haoshi",
+      "source": "PPT/豪士ppt3.png",
+      "slug": "haoshi-strategy-03",
+      "original": {
+        "width": 977,
+        "height": 846,
+        "bytes": 704045
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/haoshi/haoshi-strategy-03-thumbnail.webp",
+          "width": 760,
+          "height": 658,
+          "bytes": 71246
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/haoshi/haoshi-strategy-03-detail.webp",
+          "width": 977,
+          "height": 846,
+          "bytes": 135132
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/haoshi/haoshi-strategy-03-zoom.webp",
+          "width": 977,
+          "height": 846,
+          "bytes": 155134
+        }
+      ]
+    },
+    {
+      "project": "speaking-world",
+      "source": "海报/阿里云1.jpg",
+      "slug": "speaking-world-01",
+      "original": {
+        "width": 3508,
+        "height": 4961,
+        "bytes": 3230513
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/speaking-world/speaking-world-01-thumbnail.webp",
+          "width": 760,
+          "height": 1075,
+          "bytes": 78078
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/speaking-world/speaking-world-01-detail.webp",
+          "width": 1800,
+          "height": 2546,
+          "bytes": 296314
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/speaking-world/speaking-world-01-zoom.webp",
+          "width": 2600,
+          "height": 3677,
+          "bytes": 580860
+        }
+      ]
+    },
+    {
+      "project": "speaking-world",
+      "source": "海报/阿里云2.jpg",
+      "slug": "speaking-world-02",
+      "original": {
+        "width": 1055,
+        "height": 1491,
+        "bytes": 2335227
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/speaking-world/speaking-world-02-thumbnail.webp",
+          "width": 760,
+          "height": 1074,
+          "bytes": 67792
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/speaking-world/speaking-world-02-detail.webp",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 139608
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/speaking-world/speaking-world-02-zoom.webp",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 178676
+        }
+      ]
+    },
+    {
+      "project": "speaking-world",
+      "source": "海报/阿里云3.jpg",
+      "slug": "speaking-world-03",
+      "original": {
+        "width": 3508,
+        "height": 4961,
+        "bytes": 2232170
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/speaking-world/speaking-world-03-thumbnail.webp",
+          "width": 760,
+          "height": 1075,
+          "bytes": 62842
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/speaking-world/speaking-world-03-detail.webp",
+          "width": 1800,
+          "height": 2546,
+          "bytes": 231818
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/speaking-world/speaking-world-03-zoom.webp",
+          "width": 2600,
+          "height": 3677,
+          "bytes": 460032
+        }
+      ]
+    },
+    {
+      "project": "speaking-world",
+      "source": "海报/阿里云4.png",
+      "slug": "speaking-world-04",
+      "original": {
+        "width": 1434,
+        "height": 1097,
+        "bytes": 2307252
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/speaking-world/speaking-world-04-thumbnail.webp",
+          "width": 760,
+          "height": 581,
+          "bytes": 84128
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/speaking-world/speaking-world-04-detail.webp",
+          "width": 1434,
+          "height": 1097,
+          "bytes": 260488
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/speaking-world/speaking-world-04-zoom.webp",
+          "width": 1434,
+          "height": 1097,
+          "bytes": 304884
+        }
+      ]
+    },
+    {
+      "project": "portrait-photography",
+      "source": "摄影/1.jpg",
+      "slug": "portrait-concept-01",
+      "original": {
+        "width": 3456,
+        "height": 5184,
+        "bytes": 9926991
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/portrait-photography/portrait-concept-01-thumbnail.webp",
+          "width": 760,
+          "height": 1140,
+          "bytes": 94334
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/portrait-photography/portrait-concept-01-detail.webp",
+          "width": 1800,
+          "height": 2700,
+          "bytes": 548196
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/portrait-photography/portrait-concept-01-zoom.webp",
+          "width": 2600,
+          "height": 3900,
+          "bytes": 1256878
+        }
+      ]
+    },
+    {
+      "project": "portrait-photography",
+      "source": "摄影/2.png",
+      "slug": "portrait-concept-02",
+      "original": {
+        "width": 1672,
+        "height": 2508,
+        "bytes": 6203137
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/portrait-photography/portrait-concept-02-thumbnail.webp",
+          "width": 760,
+          "height": 1140,
+          "bytes": 131886
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/portrait-photography/portrait-concept-02-detail.webp",
+          "width": 1672,
+          "height": 2508,
+          "bytes": 672174
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/portrait-photography/portrait-concept-02-zoom.webp",
+          "width": 1672,
+          "height": 2508,
+          "bytes": 802440
+        }
+      ]
+    },
+    {
+      "project": "portrait-photography",
+      "source": "摄影/3.jpg",
+      "slug": "portrait-concept-03",
+      "original": {
+        "width": 2470,
+        "height": 3888,
+        "bytes": 517758
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/portrait-photography/portrait-concept-03-thumbnail.webp",
+          "width": 760,
+          "height": 1196,
+          "bytes": 34254
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/portrait-photography/portrait-concept-03-detail.webp",
+          "width": 1800,
+          "height": 2833,
+          "bytes": 168074
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/portrait-photography/portrait-concept-03-zoom.webp",
+          "width": 2470,
+          "height": 3888,
+          "bytes": 375968
+        }
+      ]
+    },
+    {
+      "project": "portrait-photography",
+      "source": "摄影/4 .jpg",
+      "slug": "portrait-concept-04",
+      "original": {
+        "width": 2592,
+        "height": 3888,
+        "bytes": 3354017
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/portrait-photography/portrait-concept-04-thumbnail.webp",
+          "width": 760,
+          "height": 1140,
+          "bytes": 43862
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/portrait-photography/portrait-concept-04-detail.webp",
+          "width": 1800,
+          "height": 2700,
+          "bytes": 181912
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/portrait-photography/portrait-concept-04-zoom.webp",
+          "width": 2592,
+          "height": 3888,
+          "bytes": 401544
+        }
+      ]
+    },
+    {
+      "project": "portrait-photography",
+      "source": "摄影/5.jpg",
+      "slug": "portrait-concept-05",
+      "original": {
+        "width": 4082,
+        "height": 6123,
+        "bytes": 7438276
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/portrait-photography/portrait-concept-05-thumbnail.webp",
+          "width": 760,
+          "height": 1140,
+          "bytes": 71042
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/portrait-photography/portrait-concept-05-detail.webp",
+          "width": 1800,
+          "height": 2700,
+          "bytes": 329456
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/portrait-photography/portrait-concept-05-zoom.webp",
+          "width": 2600,
+          "height": 3900,
+          "bytes": 647394
+        }
+      ]
+    },
+    {
+      "project": "portrait-photography",
+      "source": "摄影/6.jpg",
+      "slug": "portrait-concept-06",
+      "original": {
+        "width": 4082,
+        "height": 6123,
+        "bytes": 15845778
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/portrait-photography/portrait-concept-06-thumbnail.webp",
+          "width": 760,
+          "height": 1140,
+          "bytes": 189398
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/portrait-photography/portrait-concept-06-detail.webp",
+          "width": 1800,
+          "height": 2700,
+          "bytes": 1072028
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/portrait-photography/portrait-concept-06-zoom.webp",
+          "width": 2600,
+          "height": 3900,
+          "bytes": 2224776
+        }
+      ]
+    },
+    {
+      "project": "portrait-photography",
+      "source": "摄影/8.jpg",
+      "slug": "portrait-concept-07",
+      "original": {
+        "width": 1773,
+        "height": 2364,
+        "bytes": 1912356
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/portrait-photography/portrait-concept-07-thumbnail.webp",
+          "width": 760,
+          "height": 1013,
+          "bytes": 80554
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/portrait-photography/portrait-concept-07-detail.webp",
+          "width": 1773,
+          "height": 2364,
+          "bytes": 334618
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/portrait-photography/portrait-concept-07-zoom.webp",
+          "width": 1773,
+          "height": 2364,
+          "bytes": 409846
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/形状1.jpg",
+      "slug": "shape-study-01",
+      "original": {
+        "width": 652,
+        "height": 492,
+        "bytes": 176083
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/shape-study-01-thumbnail.webp",
+          "width": 652,
+          "height": 492,
+          "bytes": 19820
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/shape-study-01-detail.webp",
+          "width": 652,
+          "height": 492,
+          "bytes": 24296
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/shape-study-01-zoom.webp",
+          "width": 652,
+          "height": 492,
+          "bytes": 28670
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/形状2.jpg",
+      "slug": "shape-study-02",
+      "original": {
+        "width": 419,
+        "height": 408,
+        "bytes": 193398
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/shape-study-02-thumbnail.webp",
+          "width": 419,
+          "height": 408,
+          "bytes": 19800
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/shape-study-02-detail.webp",
+          "width": 419,
+          "height": 408,
+          "bytes": 23646
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/shape-study-02-zoom.webp",
+          "width": 419,
+          "height": 408,
+          "bytes": 27070
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/海报1.jpg",
+      "slug": "poster-study-01",
+      "original": {
+        "width": 595,
+        "height": 842,
+        "bytes": 397695
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/poster-study-01-thumbnail.webp",
+          "width": 595,
+          "height": 842,
+          "bytes": 70146
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/poster-study-01-detail.webp",
+          "width": 595,
+          "height": 842,
+          "bytes": 82642
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/poster-study-01-zoom.webp",
+          "width": 595,
+          "height": 842,
+          "bytes": 93574
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/海报2.jpg",
+      "slug": "poster-study-02",
+      "original": {
+        "width": 666,
+        "height": 932,
+        "bytes": 570781
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/poster-study-02-thumbnail.webp",
+          "width": 666,
+          "height": 932,
+          "bytes": 94180
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/poster-study-02-detail.webp",
+          "width": 666,
+          "height": 932,
+          "bytes": 110412
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/poster-study-02-zoom.webp",
+          "width": 666,
+          "height": 932,
+          "bytes": 123944
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/海报3.jpg",
+      "slug": "poster-study-03",
+      "original": {
+        "width": 608,
+        "height": 1003,
+        "bytes": 300197
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/poster-study-03-thumbnail.webp",
+          "width": 608,
+          "height": 1003,
+          "bytes": 50628
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/poster-study-03-detail.webp",
+          "width": 608,
+          "height": 1003,
+          "bytes": 57694
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/poster-study-03-zoom.webp",
+          "width": 608,
+          "height": 1003,
+          "bytes": 65546
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/海报4.png",
+      "slug": "poster-study-04",
+      "original": {
+        "width": 1086,
+        "height": 1448,
+        "bytes": 2530238
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/poster-study-04-thumbnail.webp",
+          "width": 760,
+          "height": 1013,
+          "bytes": 136196
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/poster-study-04-detail.webp",
+          "width": 1086,
+          "height": 1448,
+          "bytes": 280776
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/poster-study-04-zoom.webp",
+          "width": 1086,
+          "height": 1448,
+          "bytes": 328610
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/海报5.jpg",
+      "slug": "poster-study-05",
+      "original": {
+        "width": 595,
+        "height": 842,
+        "bytes": 183526
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/poster-study-05-thumbnail.webp",
+          "width": 595,
+          "height": 842,
+          "bytes": 26362
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/poster-study-05-detail.webp",
+          "width": 595,
+          "height": 842,
+          "bytes": 32286
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/poster-study-05-zoom.webp",
+          "width": 595,
+          "height": 842,
+          "bytes": 37922
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/海报6.jpg",
+      "slug": "poster-study-06",
+      "original": {
+        "width": 911,
+        "height": 885,
+        "bytes": 278686
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/poster-study-06-thumbnail.webp",
+          "width": 760,
+          "height": 738,
+          "bytes": 35222
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/poster-study-06-detail.webp",
+          "width": 911,
+          "height": 885,
+          "bytes": 57614
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/poster-study-06-zoom.webp",
+          "width": 911,
+          "height": 885,
+          "bytes": 65936
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/海报7.jpg",
+      "slug": "poster-study-07",
+      "original": {
+        "width": 1024,
+        "height": 1792,
+        "bytes": 620038
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/poster-study-07-thumbnail.webp",
+          "width": 760,
+          "height": 1330,
+          "bytes": 101568
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/poster-study-07-detail.webp",
+          "width": 1024,
+          "height": 1792,
+          "bytes": 222520
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/poster-study-07-zoom.webp",
+          "width": 1024,
+          "height": 1792,
+          "bytes": 282652
+        }
+      ]
+    },
+    {
+      "project": "poster-experiments",
+      "source": "海报/海报8.png",
+      "slug": "poster-study-08",
+      "original": {
+        "width": 768,
+        "height": 1376,
+        "bytes": 1658567
+      },
+      "variants": [
+        {
+          "name": "thumbnail",
+          "file": "media/projects/poster-experiments/poster-study-08-thumbnail.webp",
+          "width": 760,
+          "height": 1362,
+          "bytes": 189102
+        },
+        {
+          "name": "detail",
+          "file": "media/projects/poster-experiments/poster-study-08-detail.webp",
+          "width": 768,
+          "height": 1376,
+          "bytes": 230400
+        },
+        {
+          "name": "zoom",
+          "file": "media/projects/poster-experiments/poster-study-08-zoom.webp",
+          "width": 768,
+          "height": 1376,
+          "bytes": 263358
+        }
+      ]
+    }
+  ]
+}
