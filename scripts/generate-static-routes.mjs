@@ -18,7 +18,11 @@ const routeSeo = {
 };
 
 const [owner, repository] = (process.env.GITHUB_REPOSITORY ?? 'USERNAME/REPOSITORY').split('/');
-const base = process.env.VITE_PUBLIC_URL ?? `https://${owner}.github.io/${repository}/`;
+const isGitHubUserSite = repository.toLowerCase() === `${owner.toLowerCase()}.github.io`;
+const defaultPublicUrl = isGitHubUserSite
+  ? `https://${owner}.github.io/`
+  : `https://${owner}.github.io/${repository}/`;
+const base = process.env.VITE_PUBLIC_URL ?? defaultPublicUrl;
 const index = path.resolve('dist/index.html');
 const template = await readFile(index, 'utf8');
 const escapeAttribute = (value) => value.replaceAll('&', '&amp;').replaceAll('"', '&quot;');
