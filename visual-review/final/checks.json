@@ -1,0 +1,267 @@
+[
+  {
+    "label": "home-360x800",
+    "title": "李佳颖｜品牌策划、视觉内容与新媒体运营作品集",
+    "h1": 1,
+    "overflow": 0,
+    "images": [
+      {
+        "alt": "尾焰 IP 形象完整展示板",
+        "loaded": true
+      }
+    ],
+    "mainFocused": true
+  },
+  {
+    "label": "home-390x844",
+    "title": "李佳颖｜品牌策划、视觉内容与新媒体运营作品集",
+    "h1": 1,
+    "overflow": 0,
+    "images": [
+      {
+        "alt": "尾焰 IP 形象完整展示板",
+        "loaded": true
+      }
+    ],
+    "mainFocused": true
+  },
+  {
+    "label": "home-768x1024",
+    "title": "李佳颖｜品牌策划、视觉内容与新媒体运营作品集",
+    "h1": 1,
+    "overflow": 0,
+    "images": [
+      {
+        "alt": "尾焰 IP 形象完整展示板",
+        "loaded": true
+      }
+    ],
+    "mainFocused": true
+  },
+  {
+    "label": "home-1366x768",
+    "title": "李佳颖｜品牌策划、视觉内容与新媒体运营作品集",
+    "h1": 1,
+    "overflow": 0,
+    "images": [
+      {
+        "alt": "尾焰 IP 形象完整展示板",
+        "loaded": true
+      }
+    ],
+    "mainFocused": true
+  },
+  {
+    "label": "home-1440x900",
+    "title": "李佳颖｜品牌策划、视觉内容与新媒体运营作品集",
+    "h1": 1,
+    "overflow": 0,
+    "images": [
+      {
+        "alt": "尾焰 IP 形象完整展示板",
+        "loaded": true
+      }
+    ],
+    "mainFocused": true
+  },
+  {
+    "label": "home-1920x1080",
+    "title": "李佳颖｜品牌策划、视觉内容与新媒体运营作品集",
+    "h1": 1,
+    "overflow": 0,
+    "images": [
+      {
+        "alt": "尾焰 IP 形象完整展示板",
+        "loaded": true
+      }
+    ],
+    "mainFocused": true
+  },
+  {
+    "label": "projects-focus-1440x900",
+    "title": "作品｜李佳颖个人作品集",
+    "h1": 1,
+    "overflow": 0,
+    "images": [
+      {
+        "alt": "尾焰 IP 形象总览板",
+        "loaded": true
+      },
+      {
+        "alt": "可比克品牌线下快闪策划方案第一页",
+        "loaded": true
+      },
+      {
+        "alt": "用说话造世界系列主海报",
+        "loaded": true
+      },
+      {
+        "alt": "创意人像摄影作品一",
+        "loaded": true
+      },
+      {
+        "alt": "竹梦百千万策划方案第一页",
+        "loaded": true
+      },
+      {
+        "alt": "豪士品牌策划案第一页",
+        "loaded": true
+      },
+      {
+        "alt": "平面与海报实验作品四",
+        "loaded": true
+      }
+    ],
+    "mainFocused": true
+  },
+  {
+    "label": "project-detail-1440x900",
+    "title": "平面与海报实验｜李佳颖作品集",
+    "h1": 1,
+    "overflow": 0,
+    "images": [
+      {
+        "alt": "形状视觉实验一",
+        "loaded": true
+      },
+      {
+        "alt": "形状视觉实验一",
+        "loaded": true
+      },
+      {
+        "alt": "形状视觉实验二",
+        "loaded": true
+      },
+      {
+        "alt": "海报视觉实验一",
+        "loaded": false
+      },
+      {
+        "alt": "海报视觉实验三",
+        "loaded": false
+      },
+      {
+        "alt": "海报视觉实验四",
+        "loaded": false
+      },
+      {
+        "alt": "海报视觉实验六",
+        "loaded": false
+      },
+      {
+        "alt": "海报视觉实验七",
+        "loaded": false
+      },
+      {
+        "alt": "海报视觉实验八",
+        "loaded": false
+      },
+      {
+        "alt": "",
+        "loaded": true
+      }
+    ],
+    "mainFocused": true
+  },
+  {
+    "label": "lightbox",
+    "open": true,
+    "imageLoaded": true
+  },
+  {
+    "label": "lightbox-focus-trap",
+    "wrappedBackward": true,
+    "wrappedForward": true
+  },
+  {
+    "label": "lightbox-close",
+    "count": 0
+  },
+  {
+    "label": "project-refresh",
+    "pathname": "/projects/poster-experiments"
+  },
+  {
+    "label": "browser-back",
+    "pathname": "/projects"
+  },
+  {
+    "label": "profile-1440x900",
+    "title": "关于李佳颖｜经历与简历",
+    "h1": 1,
+    "overflow": 0,
+    "images": [],
+    "mainFocused": true
+  },
+  {
+    "label": "print-profile",
+    "headerDisplay": "none",
+    "actionDisplay": "none",
+    "portraitCount": 0
+  },
+  {
+    "label": "404",
+    "text": "这个页面暂时不存在。",
+    "pathname": "/missing-route"
+  },
+  {
+    "label": "direct-/projects/tailo",
+    "status": 200,
+    "h1": 1,
+    "brokenImages": 0
+  },
+  {
+    "label": "direct-/projects/kebike",
+    "status": 200,
+    "h1": 1,
+    "brokenImages": 0
+  },
+  {
+    "label": "direct-/projects/bamboo-dream",
+    "status": 200,
+    "h1": 1,
+    "brokenImages": 0
+  },
+  {
+    "label": "direct-/projects/haoshi",
+    "status": 200,
+    "h1": 1,
+    "brokenImages": 0
+  },
+  {
+    "label": "direct-/projects/speaking-world",
+    "status": 200,
+    "h1": 1,
+    "brokenImages": 0
+  },
+  {
+    "label": "direct-/projects/portrait-photography",
+    "status": 200,
+    "h1": 1,
+    "brokenImages": 0
+  },
+  {
+    "label": "direct-/projects/poster-experiments",
+    "status": 200,
+    "h1": 1,
+    "brokenImages": 0
+  },
+  {
+    "label": "touch-swipe",
+    "before": "尾焰 TAILO",
+    "after": "可比克品牌线下快闪",
+    "changed": true
+  },
+  {
+    "label": "keyboard",
+    "before": "尾焰 TAILO",
+    "after": "可比克品牌线下快闪",
+    "changed": true,
+    "activeTag": "A"
+  },
+  {
+    "label": "reduced-motion",
+    "mediaMatches": true,
+    "hiddenStageElements": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "label": "home-tailo",
+    "geometry": {
+      "fit": "contain",
+      "frame": "presentation",
+      "ticketBelow": true,
+      "imageWithinMedia": true,
+      "naturalRatio": 1.4132701421800948,
+      "renderedRatio": 1.4133042270112066,
+      "ratioDelta": 0.00003408483111178029
+    },
+    "headlineLines": [
+      "把内容从",
+      "创意推进",
+      "到真实落地。"
+    ]
+  },
+  {
+    "label": "home-kebike",
+    "geometry": {
+      "fit": "contain",
+      "frame": "presentation",
+      "ticketBelow": true,
+      "imageWithinMedia": true,
+      "naturalRatio": 1.6849015317286653,
+      "renderedRatio": 1.684963230812985,
+      "ratioDelta": 0.000061699084319633
+    }
+  },
+  {
+    "label": "home-speaking-world",
+    "geometry": {
+      "fit": "contain",
+      "frame": "poster",
+      "ticketBelow": true,
+      "imageWithinMedia": true,
+      "naturalRatio": 0.7069913589945012,
+      "renderedRatio": 0.7070074571640007,
+      "ratioDelta": 0.000016098169499545456
+    }
+  },
+  {
+    "label": "home-photography",
+    "geometry": {
+      "fit": "cover",
+      "frame": "photography",
+      "ticketBelow": true,
+      "imageWithinMedia": true,
+      "naturalRatio": 0.6666666666666666,
+      "renderedRatio": 0.8,
+      "ratioDelta": 0.13333333333333341
+    }
+  },
+  {
+    "label": "cards",
+    "count": 7,
+    "presentation": 4,
+    "poster": 2,
+    "photography": 1
+  },
+  {
+    "label": "profile",
+    "portraitFigures": 0,
+    "downloadVisible": true,
+    "columns": "836.641px 358.578px"
+  },
+  {
+    "label": "lightbox",
+    "visible": true,
+    "loaded": true
+  },
+  {
+    "label": "local",
+    "suggestedFilename": "李佳颖个人简历.docx",
+    "bytes": 126522,
+    "sha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+    "sourceBytes": 126522,
+    "sourceSha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+    "status": 200,
+    "contentType": "",
+    "zipSignature": "504b0304",
+    "isHtml": false
+  },
+  {
+    "label": "github-pages-subpath",
+    "suggestedFilename": "李佳颖个人简历.docx",
+    "bytes": 126522,
+    "sha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+    "sourceBytes": 126522,
+    "sourceSha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+    "status": 200,
+    "contentType": "",
+    "zipSignature": "504b0304",
+    "isHtml": false
+  },
+  {
+    "label": "mobile",
+    "overflow": 0,
+    "headlineLines": 3
+  }
+]

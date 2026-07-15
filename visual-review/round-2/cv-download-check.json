@@ -1,0 +1,37 @@
+{
+  "downloads": [
+    {
+      "label": "local",
+      "suggestedFilename": "李佳颖个人简历.docx",
+      "bytes": 126522,
+      "sha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+      "sourceBytes": 126522,
+      "sourceSha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+      "status": 200,
+      "contentType": "",
+      "zipSignature": "504b0304",
+      "isHtml": false
+    },
+    {
+      "label": "github-pages-subpath",
+      "suggestedFilename": "李佳颖个人简历.docx",
+      "bytes": 126522,
+      "sha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+      "sourceBytes": 126522,
+      "sourceSha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+      "status": 200,
+      "contentType": "",
+      "zipSignature": "504b0304",
+      "isHtml": false
+    }
+  ],
+  "applicationOpen": {
+    "application": "Microsoft Word",
+    "windowTitle": "li-jiaying-resume.docx - Word",
+    "openedFile": "public/files/cv/li-jiaying-resume.docx",
+    "expectedSha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+    "screenshot": "word-open-check.png",
+    "openedSuccessfully": true,
+    "recordedAt": "2026-07-15T05:05:21.832Z"
+  }
+}

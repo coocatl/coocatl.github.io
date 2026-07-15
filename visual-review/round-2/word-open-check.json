@@ -1,0 +1,9 @@
+{
+  "application": "Microsoft Word",
+  "windowTitle": "li-jiaying-resume.docx - Word",
+  "openedFile": "public/files/cv/li-jiaying-resume.docx",
+  "expectedSha256": "543A0DA5F7F55DB92E1CC873B0A5265594634A4C220D2A5A0048280AEA5F2B29",
+  "screenshot": "word-open-check.png",
+  "openedSuccessfully": true,
+  "recordedAt": "2026-07-15T05:05:21.832Z"
+}
