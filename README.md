@@ -28,10 +28,10 @@ npm run qa:pages
 - 项目：`src/data/projects.ts`
 - Profile：`src/data/profile.ts`
 - 公开邮箱与电话开关：`src/config.ts`
-- 真实简历下载：`public/files/cv/li-jiaying-resume.docx`
+- 真实简历下载：`public/files/cv/li-jiaying-resume.pdf`
 - 优化媒体：`public/media/`
 - 素材映射：`media-sources/li-jiaying/manifest.json`
 
-Round 2 视觉与下载验收证据位于 `visual-review/round-2/`，包括首页四种媒体、移动端、Profile、作品卡片、方案板图库、两种部署路径的 DOCX 下载记录，以及 Microsoft Word 实际打开记录。
+Round 2 视觉与下载验收证据位于 `visual-review/round-2/`，包括首页四种媒体、移动端、Profile、作品卡片、方案板图库和两种部署路径的 PDF 下载记录。
 
 部署步骤见 `DEPLOY_GITHUB_PAGES.md`，替换说明见 `CONTENT_REPLACEMENT.md`。

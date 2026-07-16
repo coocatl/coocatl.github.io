@@ -1,0 +1,22 @@
+Upload these files to the repository root and preserve their folder paths:
+
+src/config.ts
+src/pages/ProfilePage.tsx
+scripts/validate-content.mjs
+scripts/qa-round-2.mjs
+README.md
+DEPLOY_GITHUB_PAGES.md
+
+Also rename your new PDF to:
+
+li-jiaying-resume.pdf
+
+and upload it to:
+
+public/files/cv/li-jiaying-resume.pdf
+
+Delete the old file:
+
+public/files/cv/li-jiaying-resume.docx
+
+After committing, GitHub Actions should rebuild the website automatically.
